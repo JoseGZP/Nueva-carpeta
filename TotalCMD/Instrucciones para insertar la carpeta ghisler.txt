@@ -1,0 +1,13 @@
+Copiar la carpeta "Ghisler" en la dirección
+c:\Users\Administrator\AppData\Roaming\
+
+de manera que quede como sigue:
+c:\Users\Administrator\AppData\Roaming\Ghisler
+
+N O T A: la carpeta "AppData" es del tipo oculta,
+por lo que tendrás que cambiar (de modo transitorio)
+en el FileExplorer su atributo para que la puedas
+ver, antes de llegar a la dirección
+"c:\Users\Administrator\AppData\Roaming\"
+para poder grabar en ella la carpeta
+"Ghisler"
